@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Emr.Api/Emr.Api.csproj" />
+    <Project Path="src/Emr.Migrator/Emr.Migrator.csproj" />
+  </Folder>
+</Solution>
